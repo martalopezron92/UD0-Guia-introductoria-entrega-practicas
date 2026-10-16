@@ -1,21 +1,14 @@
----
-marp: true
-theme: default
-paginate: true
-backgroundColor: #fff
----
-
 # Ejercicios prácticos: Git, GitHub y Markdown
 
-## 1.º DAW — Serie de 5 prácticas progresivas
+## Serie de 5 prácticas progresivas
 
 Cada práctica se entrega en un **repositorio GitHub** siguiendo la convención de nombres:
 
 ```text
-1DAW-SIGLA-PXX
+CURSO(1DAW)-Modulo(BBDD)-SiglasNombreApellidos-UDXX-PXX
 ```
 
-> Ejemplo: `1DAW-ED-P01`, `1DAW-ED-P02`, `1DAW-ED-P03`...
+> Ejemplo: `1DAW-ED-MLR-UD00-P01`, `1DAW-ED-MLR-UD01-P02`, `1DAW-ED-MLR-UD01-P03`...
 
 ---
 
@@ -353,7 +346,7 @@ flowchart LR
 
 | Criterio | Puntos |
 |---|---|
-| Repositorio con el nombre correcto (`1DAW-SIGLA-PXX`) | 1 |
+| Repositorio con el nombre correcto  | 1 |
 | Flujo Git correcto (clone, add, commit, push) | 2 |
 | Mínimo 3 commits con mensajes descriptivos | 1 |
 | Elementos Markdown pedidos, usados correctamente | 4 |
@@ -388,4 +381,4 @@ git pull                          # Traer cambios si trabajas desde otro PC
 
 > **Recuerda:** `commit` guarda en tu ordenador, `push` sube a GitHub.
 
-<REF>file✦sandbox:///mnt/agents/output/ejercicios-markdown-daw.md</REF>
+
