@@ -68,7 +68,6 @@ Al terminar esta práctica tendrás:
    - ✅ *Añadir a PATH* (suele venir marcada)
 5. Pulsa **Instalar** y, al acabar, **Finalizar**.
 
----
 
 ### 3.3 Comprobar que funciona
 
@@ -81,7 +80,6 @@ Al terminar esta práctica tendrás:
 2. Busca **Spanish Language Pack for Visual Studio Code**.
 3. Pulsa **Install** y después **Restart** cuando lo pida.
 
----
 
 ### 3.5 Extensiones recomendadas para el curso
 
@@ -107,7 +105,6 @@ En el panel de Extensiones (`Ctrl + Shift + X`) busca e instala:
 1. Entra en: **https://git-scm.com/downloads**
 2. Pulsa **Windows** y descarga la versión de **64-bit** (*"Git for Windows Setup"*).
 
----
 
 ### 4.2 Instalar (Windows)
 
@@ -128,7 +125,6 @@ Se abrirá un asistente con muchas pantallas. **Para la mayoría basta con pulsa
 
 > ⚠️ **Muy importante:** no cambies la opción *Git Credential Manager*. Es la pieza que hace que iniciar sesión en GitHub sea tan sencillo (Paso 5).
 
----
 
 ### 4.3 Comprobar la instalación
 
@@ -201,7 +197,6 @@ Tu usuario aparecerá en las URLs de tus prácticas (`github.com/tu-usuario/...`
 - ✅ Profesional y reconocible: `ana-garcia`, `agarcia-dev`, `juan.perez`
 - ❌ Evita: `xX_killer_Xx`, `pepito69`, nombres con faltas o bromas
 
----
 
 ### 6.3 Verificar el correo
 
@@ -238,7 +233,6 @@ Para subir tu trabajo (`git push`), GitHub tiene que saber que **eres tú**. Hay
 
 Solo tendrás que iniciar sesión **la primera vez**. Después, el equipo recordará tus credenciales.
 
----
 
 ### 7.2 Crear un repositorio de prueba en GitHub
 
@@ -269,7 +263,6 @@ code .
 
 > `code .` abre la carpeta actual en VS Code. Si no funciona, usa **Archivo → Abrir carpeta**.
 
----
 
 ### 7.4 Hacer un cambio y subirlo (aquí te autenticas)
 
@@ -288,7 +281,6 @@ git add .
 git commit -m "Añade mi presentación al README"
 git push
 ```
----
 
 ### 7.5 ¡Inicio de sesión!
 
@@ -312,7 +304,6 @@ To https://github.com/tu-usuario/prueba-autenticacion.git
 
 🎉 **¡Ya estás autenticado!**
 
----
 
 ### 7.6 Alternativa: iniciar sesión desde VS Code
 
