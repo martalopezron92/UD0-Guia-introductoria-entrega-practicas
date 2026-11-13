@@ -1,7 +1,5 @@
 # Guía paso a paso: entregar una tarea con Markdown, Git y GitHub
 
-Nov 13, 2026 · @Marta
-
 Sigue los 10 pasos en orden: al terminar tendrás tu tarea en GitHub y el enlace entregado en Moodle. Trabajarás siempre con la carpeta abierta en Visual Studio Code y escribiendo los comandos de Git en su terminal. Usa primero la guía rápida; si no recuerdas cómo se hace algo, cada paso está explicado en detalle más abajo.
 
 ## Guía rápida
